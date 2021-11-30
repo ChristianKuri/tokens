@@ -1,0 +1,25 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianKuri/tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianKuri/tokens/issues"
+  },
+  "homepage": "https://github.com/ChristianKuri/tokens#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0"
+  }
+}
